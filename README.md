@@ -6,7 +6,8 @@ iOS에서 Bluetooth 기능을 개발하면서 도움이 되는 정보들을 모�
 ```
 
 ## Apple Developer Documentation
-- [Apple Developer Documentation - Core Bluetooth](https://developer.apple.com/documentation/corebluetooth)
+- [Bluetooth - Apple Developer](https://developer.apple.com/bluetooth/)
+- [Core Bluetooth - Apple Developer Documentation](https://developer.apple.com/documentation/corebluetooth)
 - [iOS Developer Library - Core Bluetooth Programming Guide](https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/AboutCoreBluetooth/Introduction.html)
 
 ## WWDC
