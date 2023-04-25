@@ -14,6 +14,7 @@ iOS에서 Bluetooth 기능을 개발하면서 도움이 되는 정보들을 모�
 
 ## Tutorials
 - [Kodeco - Core Bluetooth Tutorial for iOS: Heart Rate Monitor](https://www.kodeco.com/231-core-bluetooth-tutorial-for-ios-heart-rate-monitor)
+- [The Ultimate Guide to Apple's Core Bluetooth | Punch Through](https://punchthrough.com/core-bluetooth-basics/)
 
 ## Sessions
 - [2023년 3월 25일, CoreBluetooth로 1:1 채팅앱 만들어보기](https://www.youtube.com/watch?v=p1KoJtqxXBE) (36:25)
