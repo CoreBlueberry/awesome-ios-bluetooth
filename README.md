@@ -20,6 +20,10 @@ iOS에서 Bluetooth 기능을 개발하면서 도움이 되는 정보들을 모�
 ## Sessions
 - [2023년 3월 25일, CoreBluetooth로 1:1 채팅앱 만들어보기](https://www.youtube.com/watch?v=p1KoJtqxXBE) (36:25)
 
+## Libraries
+- [BluetoothKit](https://github.com/rhummelmose/BluetoothKit)
+- [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit)
+
 ## Bluetooth
 - [Bluetooth](https://www.bluetooth.com/)
 - [Bluetooth - Assigned Numbers](https://www.bluetooth.com/specifications/assigned-numbers/)
