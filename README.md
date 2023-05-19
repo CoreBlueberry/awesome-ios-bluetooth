@@ -29,3 +29,6 @@ iOS에서 Bluetooth 기능을 개발하면서 도움이 되는 정보들을 모�
 ## Bluetooth
 - [Bluetooth](https://www.bluetooth.com/)
 - [Bluetooth - Assigned Numbers](https://www.bluetooth.com/specifications/assigned-numbers/)
+
+## Security
+- [Apple Platform Security - Bluetooth Security](https://support.apple.com/guide/security/bluetooth-security-sec82597d97e/web)
